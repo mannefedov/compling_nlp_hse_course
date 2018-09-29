@@ -3,7 +3,7 @@
 Для большого проекта хорошо подойдет какое-то академическое соревнование или benchmark, или можно взять недавно опубликованный датасет и поработать с ним. 
 ### Ссылки:
 
-[http://alt.qcri.org/semeval2019/index.php?id=tasks] - SemEval (12 задач на разный вкус)
+<http://alt.qcri.org/semeval2019/index.php?id=tasks> - SemEval (12 задач на разный вкус)
 
 https://rajpurkar.github.io/SQuAD-explorer/ - бенчмарк по вопросно-ответным системам 
 
