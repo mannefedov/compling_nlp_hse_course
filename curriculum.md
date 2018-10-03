@@ -4,7 +4,7 @@
 
 2. Тематическое моделирование (5.10)  
         Приходите со своими компьютерами. Заранее установите [gensim](https://github.com/RaRe-Technologies/gensim) и [BigARTM](https://github.com/bigartm/bigartm).  
-        Ссылка на скачивание данных к семинару появится не позже среды.
+        Ссылка на скачивание данных - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/habr_texts.txt.zip>.  
 
 3. Ключевые слова (12.10)
 
