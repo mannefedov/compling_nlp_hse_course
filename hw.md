@@ -1,7 +1,7 @@
 # Домашние задания
 
 ### Домашка 2
-Ссылка на форму - <https://goo.gl/forms/RgSmqt0anisJNmRa2>
+Ссылка на форму - <https://goo.gl/forms/RgSmqt0anisJNmRa2>  
 **Дедлайн - 23:59 11 октября (четверг)**  
 Для решения первой части можно почитать: [туториал от создателя gensim](https://radimrehurek.com/gensim/wiki.html), [очень подробный туториал от machinelearningplus](http://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/), или посмотреть [короткое видео с описание алгоритма LDA](https://www.youtube.com/watch?v=DWJYZq_fQ2A).    
 
