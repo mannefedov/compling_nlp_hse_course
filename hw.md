@@ -5,7 +5,7 @@
 **Дедлайн - 23:59 11 октября (четверг)**  
 Для решения первой части можно почитать: [туториал от создателя gensim](https://radimrehurek.com/gensim/wiki.html), [очень подробный туториал от machinelearningplus](http://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/), или посмотреть [короткое видео с описание алгоритма LDA](https://www.youtube.com/watch?v=DWJYZq_fQ2A).    
 
-Для решения второй части можно посмотреть: [Гайды в документации к BigARTM](http://docs.bigartm.org/en/stable/tutorials/python_userguide/index.html), [Краткое описание всего BigARTM](http://www.machinelearning.ru/wiki/images/6/6d/BigARTM-short-intro.pdf), [Лекцию с теорией BigARTM](https://www.youtube.com/watch?v=2LEQuLRxaIY), [Книжечку Воронцова с кучей подробной информации по ТМ вообше и BigARTM](http://www.machinelearning.ru/wiki/images/d/d5/Voron17survey-artm.pdf).  
+Для решения второй части можно посмотреть: [Гайды в документации к BigARTM](http://docs.bigartm.org/en/stable/tutorials/python_userguide/index.html), [Краткое описание всего BigARTM](http://www.machinelearning.ru/wiki/images/6/6d/BigARTM-short-intro.pdf), [Лекцию с теорией BigARTM](https://www.youtube.com/watch?v=2LEQuLRxaIY), [Книжечку Воронцова с кучей подробной информации по ТМ вообще и BigARTM](http://www.machinelearning.ru/wiki/images/d/d5/Voron17survey-artm.pdf).  
 Если у вас возникли какие-то трудности с выполнением задания или вы заметили ошибку, пожалуйста, сразу напишите мне в телеграм (@Nefedov_m) или на почту (manefedov26@gmail.com).
 
 
