@@ -7,7 +7,7 @@
 
 Для решения второй части можно посмотреть: [Гайды в документации к BigARTM](http://docs.bigartm.org/en/stable/tutorials/python_userguide/index.html), [Краткое описание всего BigARTM](http://www.machinelearning.ru/wiki/images/6/6d/BigARTM-short-intro.pdf), [Лекцию с теорией BigARTM](https://www.youtube.com/watch?v=2LEQuLRxaIY), [Книжечку Воронцова с кучей подробной информации по ТМ вообще и BigARTM](http://www.machinelearning.ru/wiki/images/d/d5/Voron17survey-artm.pdf).  
 
-**Если у вас возникли проблемы с установкой BigARTM, вы можете выполнить задание в Colab. Загрузите туда [эту jupyter тетрадку](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/SEMINAR_2_Topic_model_BigARTM_for_colab.ipynb) и выполните все команды по установке пакетов.**  
+**Если у вас возникли проблемы с установкой BigARTM, вы можете выполнить задание в Colab. Загрузите туда [эту jupyter тетрадку](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/SEMINAR_2_Topic_model_BigARTM_for_colab.ipynb) и выполните все команды по установке пакетов. После этого можно выполнять дз**  
 
 Если у вас возникли какие-то трудности с выполнением задания или вы заметили ошибку, пожалуйста, сразу напишите мне в телеграм (@Nefedov_m) или на почту (manefedov26@gmail.com).
 
