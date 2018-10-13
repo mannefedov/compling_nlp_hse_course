@@ -2,11 +2,11 @@
 
 1. ~~Формальности (28.09)~~
 
-2. Тематическое моделирование (5.10)  
+2. ~~Тематическое моделирование (5.10)~~  
         Приходите со своими компьютерами. Заранее установите [gensim](https://github.com/RaRe-Technologies/gensim) и [BigARTM](https://github.com/bigartm/bigartm).  
         Ссылка на скачивание данных - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/habr_texts.txt.zip>.  
 
-3. Ключевые слова (12.10)  
+3. ~~Ключевые слова (12.10)~~  
         Данные для семинара - <https://github.com/mannefedov/ru_kw_eval_datasets/tree/master/data> . Скачайте фалы с ng_ в названии.
 
 4.  Векторные представления (19.10)
