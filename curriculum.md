@@ -12,7 +12,9 @@
 4.  Векторные представления (19.10)  
         Данные для семинара -  
         1) <https://drive.google.com/file/d/1BgU5RpqiZLN5DwyqlUf3jKXD_70Py9oo/view?usp=sharing>  
-        2) <http://paraphraser.ru/download/get?file_id=1>
+        2) <http://paraphraser.ru/download/get?file_id=1>  
+        Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/SEMINAR_4_Embeddings.ipynb>
+        
         
                
 
