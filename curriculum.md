@@ -9,8 +9,9 @@
 3. ~~Ключевые слова (12.10)~~  
         Данные для семинара - <https://github.com/mannefedov/ru_kw_eval_datasets/tree/master/data> . Скачайте фалы с ng_ в названии.
 
-4.  Векторные представления (19.10)
-        Данные для семинара - 1) https://drive.google.com/file/d/1BgU5RpqiZLN5DwyqlUf3jKXD_70Py9oo/view?usp=sharing
+4.  Векторные представления (19.10)  
+        Данные для семинара -  
+        1) https://drive.google.com/file/d/1BgU5RpqiZLN5DwyqlUf3jKXD_70Py9oo/view?usp=sharing  
         2) http://paraphraser.ru/download/get?file_id=1
         
                
