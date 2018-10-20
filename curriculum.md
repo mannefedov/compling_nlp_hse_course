@@ -20,7 +20,8 @@
 
 5. Разрешение лексической неоднозначности (**20.10**)  
         Модель адаграма - <https://yadi.sk/d/OpixBGgeKZLdOw>
-        Данные для WSI - <https://yadi.sk/d/CnJ4ClebJLYa7w>
+        Данные для WSI - <https://yadi.sk/d/CnJ4ClebJLYa7w>  
+        Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/SEMINAR_5_WSD.ipynb>
         
         
 
