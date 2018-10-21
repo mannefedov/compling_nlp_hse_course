@@ -9,7 +9,7 @@
 3. ~~Ключевые слова (12.10)~~  
         Данные для семинара - <https://github.com/mannefedov/ru_kw_eval_datasets/tree/master/data> . Скачайте фалы с ng_ в названии.
 
-4.  Векторные представления (19.10)  
+4.  ~~Векторные представления (19.10)~~  
         Данные для семинара -  
         1) <https://drive.google.com/file/d/1BgU5RpqiZLN5DwyqlUf3jKXD_70Py9oo/view?usp=sharing>  
         2) <http://paraphraser.ru/download/get?file_id=1>  
@@ -18,7 +18,7 @@
         
                
 
-5. Разрешение лексической неоднозначности (**20.10**)  
+5. ~~Разрешение лексической неоднозначности (**20.10**)~~  
         Модель адаграма - <https://yadi.sk/d/OpixBGgeKZLdOw>
         Данные для WSI - <https://yadi.sk/d/CnJ4ClebJLYa7w>  
         Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/SEMINAR_5_WSD.ipynb>
