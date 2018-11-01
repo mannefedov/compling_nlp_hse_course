@@ -3,7 +3,7 @@
 
 
 ### Домашка 1
-Ссылка на форму - <>  
+Ссылка на форму - <https://goo.gl/forms/H9lBH9wCxqq1T0ru2>  
 **Дедлайн - 23:59 11 ноября (воскресенье)**  
 
 Задание и бейзлайн вы найдете в конце этой [jupyter-тетрадки](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/SEMINAR_3_Keyword_extraction.ipynb).
