@@ -26,8 +26,8 @@
         
 
 6. Извлечение сущностей и отношений (09.11)  
-        Тетрадка - https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb  
-        Данные - https://drive.google.com/file/d/1N_9Lb-IxY1Y7iTWFZMJXDG_vhuHowwXf/view?usp=sharing
+        Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb>  
+        Данные - <https://drive.google.com/file/d/1N_9Lb-IxY1Y7iTWFZMJXDG_vhuHowwXf/view?usp=sharing>
         
 
 7. Анафора и кореферентность
