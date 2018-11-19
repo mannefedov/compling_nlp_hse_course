@@ -16,3 +16,6 @@
 ### Домашка 2
 Ссылка на форму - <https://goo.gl/forms/Cq5N2x0f335PAyCj1>  
 **Дедлайн - 23:59 25 ноября (воскресенье)**  
+Для решения первой части можно почитать: [туториал от создателя gensim](https://radimrehurek.com/gensim/wiki.html), [очень подробный туториал от machinelearningplus](http://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/). Тут можно посмотреть [короткое видео с описание алгоритма LDA](https://www.youtube.com/watch?v=DWJYZq_fQ2A).    
+
+Для решения второй части можно посмотреть: [Гайды в документации к BigARTM](http://docs.bigartm.org/en/stable/tutorials/python_userguide/index.html), [Краткое описание всего BigARTM](http://www.machinelearning.ru/wiki/images/6/6d/BigARTM-short-intro.pdf), [Лекцию с теорией BigARTM](https://www.youtube.com/watch?v=2LEQuLRxaIY), [Книжечку Воронцова с кучей подробной информации по ТМ вообще и BigARTM](http://www.machinelearning.ru/wiki/images/d/d5/Voron17survey-artm.pdf). Ещё на youtube много видео с выступлением Воронцова или ребят из его научной группы, можно гуглить что-то вроде "тематическое моделирование bigartm datafest"
