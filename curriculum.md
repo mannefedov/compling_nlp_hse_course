@@ -33,8 +33,8 @@
 7. ~~Анафора и кореферентность~~
 
 8. Извлечение отношений (23.11)
-   Данные FewRel - <https://github.com/thunlp/FewRel/blob/master/data/train.json>
-   Новостные тексты с webhose (кусок) - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/news.zip>
+   Данные FewRel - <https://github.com/thunlp/FewRel/blob/master/data/train.json>  
+   Новостные тексты с webhose (кусок) - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/news.zip>  
    
    Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Relation_extraction.ipynb>
    
