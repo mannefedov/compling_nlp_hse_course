@@ -5,7 +5,7 @@
 Ссылка на форму - <https://goo.gl/forms/v9RYXtwmgnkzmcu33>  
 **Дедлайн - 18:00 2 ноября (воскресенье)**  
 
-Задание сформулировано в форме. Семинарская тетрадка лежит вот тут - [jupyter-тетрадки](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Embeddings.ipynb).
+Задание сформулировано в форме. Семинарская тетрадка лежит вот тут - [jupyter-тетрадка](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Embeddings.ipynb).
 
 Если у вас возникли какие-то трудности с выполнением задания или вы заметили ошибку, пожалуйста, сразу напишите мне в телеграм (@Nefedov_m) или на почту (manefedov26@gmail.com).
 
