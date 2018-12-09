@@ -25,3 +25,9 @@
 Корпус на русском - <https://drive.google.com/file/d/1MZKPXSGYFZTHAz8ch2EZY6TwiGG5i2eQ/view?usp=sharing>  
 Данные соревнования по перефразированию - <http://paraphraser.ru/download/get?file_id=1>  
 Данные для WSI (Диалог) - <https://yadi.sk/d/CnJ4ClebJLYa7w>  
+
+5.  Практика по Natasha-nerg (26.11)  
+        Данные для семинара -  
+        1) <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/sents.txt>  
+        Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb>
+    
