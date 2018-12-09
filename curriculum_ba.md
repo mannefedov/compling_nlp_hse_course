@@ -29,5 +29,6 @@
 5.  Практика по Natasha-nerg (26.11)  
         Данные для семинара -  
         1) <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/sents.txt>  
-        Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb>
+        Тетрадка -  
+        <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb>
     
