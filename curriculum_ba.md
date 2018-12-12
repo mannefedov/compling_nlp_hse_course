@@ -26,9 +26,16 @@
 Данные соревнования по перефразированию - <http://paraphraser.ru/download/get?file_id=1>  
 Данные для WSI (Диалог) - <https://yadi.sk/d/CnJ4ClebJLYa7w>  
 
-5.  Практика по Natasha-nerg (26.11)  
+5.  Практика по Natasha-nerg (10.12)  
         Данные для семинара -  
         1) <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/sents.txt>  
         Тетрадка -  
         <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb>
     
+
+6. SRL и Relation extraction.(13.12)
+   Данные FewRel - <https://github.com/thunlp/FewRel/blob/master/data/train.json>  
+   Новостные тексты с webhose (кусок) - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/news.zip>  
+   
+   Тетрадка для отношений - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Relation_extraction.ipynb>
+   
