@@ -33,7 +33,7 @@
         <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb>
     
 
-6. SRL и Relation extraction.(13.12)
+6. SRL и Relation extraction.(13.12)  
    Данные FewRel - <https://github.com/thunlp/FewRel/blob/master/data/train.json>  
    Новостные тексты с webhose (кусок) - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/data/news.zip>  
    
