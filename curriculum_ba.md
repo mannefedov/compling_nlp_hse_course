@@ -39,6 +39,6 @@
    
    Тетрадка для отношений - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Relation_extraction.ipynb>
    
-   Данные для SRL: 1) <https://dada.cs.washington.edu/qasrl/data/wiki1.train.qa>  2) https://dada.cs.washington.edu/qasrl/data/wiki1.dev.qa
+   Данные для SRL: 1) <https://dada.cs.washington.edu/qasrl/data/wiki1.train.qa>   2) https://dada.cs.washington.edu/qasrl/data/wiki1.dev.qa
    
    Тетрадка: <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/srl.ipynb>
