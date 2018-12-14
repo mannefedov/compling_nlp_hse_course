@@ -39,6 +39,6 @@
    Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Relation_extraction.ipynb>
    
 
-9. Определение семантических ролей
-
-10. Вопросно-ответные системы
+9. Вопросно-ответные системы
+  Тетрадка - <https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Question_answering.ipynb>
+  Данные скачайте осюда - <https://rajpurkar.github.io/SQuAD-explorer/>
