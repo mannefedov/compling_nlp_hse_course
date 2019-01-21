@@ -1,7 +1,7 @@
 # Темы
 
-### Предобработка текста и простая классификация (tokens, lemmas, Bag-of-words)
-[Jupyter-тетрадка](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Preprocessing.ipynb)
+#### Предобработка текста и простая классификация (tokens, lemmas, Bag-of-words)
+[Jupyter-тетрадка](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Preprocessing.ipynb)  
 [Доп. тетрадка с сегментацией предложений](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/sent_tokenizer.ipynb)
 
 ### Определение языка (char ngram, wiki data)
@@ -29,7 +29,7 @@
 [Jupyter-тетрадка](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/MEMM_viterbi.ipynb)
 
 ### Извлечение именованных сущностей 
-[Jupyter-тетрадка Natasha](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb)
+[Jupyter-тетрадка Natasha](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb)  
 [Jupyter-тетрадка эвристики, готовые решения, бутстреппинг](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb)
 
 ### Извлечение отношений (context embedding + classification)
