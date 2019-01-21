@@ -1,7 +1,7 @@
 # Темы
 
 #### :ledger: [Предобработка текста и простая классификация (tokens, lemmas, Bag-of-words)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Preprocessing.ipynb)  
-    [Доп. тетрадка с сегментацией предложений](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/sent_tokenizer.ipynb)
+[Доп. тетрадка с сегментацией предложений](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/sent_tokenizer.ipynb)
 
 #### :ledger: [Определение языка (char ngram, wiki data)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Language_Detection.ipynb)
 
