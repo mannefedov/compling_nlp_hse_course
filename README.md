@@ -1,7 +1,7 @@
 # Темы
 
 #### :ledger: [Предобработка текста и простая классификация (tokens, lemmas, Bag-of-words)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Preprocessing.ipynb)  
-[Доп. тетрадка с сегментацией предложений](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/sent_tokenizer.ipynb)
+  [Доп. тетрадка с сегментацией предложений](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/sent_tokenizer.ipynb)
 
 #### :ledger: [Определение языка (char ngram, wiki data)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Language_Detection.ipynb)
 
@@ -20,7 +20,7 @@
 #### :ledger: [Определения части речи (viterbi, memm classifier)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/MEMM_viterbi.ipynb)
 
 #### :ledger: [Извлечение именованных сущностей Natasha](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb)  
-[Извлечение именованных сущностей эвристики, готовые решения](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb)
+  [Извлечение именованных сущностей эвристики, готовые решения](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb)
 
 #### :ledger: [Извлечение отношений (context embedding + classification)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Relation_extraction.ipynb)
 
