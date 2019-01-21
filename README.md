@@ -17,7 +17,7 @@
 
 #### [Дизамбигуация значений слов - WSD (lesk, adagram, context clustering)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/spellcheck.ipynb)
 
-#### [Определения части речи (viterbi, memm classifier) - [Jupyter-тетрадка](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/MEMM_viterbi.ipynb)
+#### [Определения части речи (viterbi, memm classifier)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/MEMM_viterbi.ipynb)
 
 #### [Извлечение именованных сущностей Natasha](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/natasha.ipynb)  
 [Извлечение именованных сущностей эвристики, готовые решения](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/NER.ipynb)
