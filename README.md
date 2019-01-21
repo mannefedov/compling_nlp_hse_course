@@ -5,9 +5,9 @@
 
 #### :ledger: [Определение языка (char ngram, wiki data)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Language_Detection.ipynb)
 
-#### [Извлечение ключевых слов (tfidf ranking, randow walk on word graph, graph centrality for ranking)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Keyword_extraction.ipynb)
+#### :ledger: [Извлечение ключевых слов (tfidf ranking, randow walk on word graph, graph centrality for ranking)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Keyword_extraction.ipynb)
 
-#### [Определение и исправление опечаток (char ngram, norwig algorithm, word edit distances)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/spellcheck.ipynb)
+#### :ledger: [Определение и исправление опечаток (char ngram, norwig algorithm, word edit distances)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/spellcheck.ipynb)
 
 #### [Тематическое моделирование (gensim + sklearn, lda, nmf)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Topic_model_gensim_sklearn.ipynb)
 
