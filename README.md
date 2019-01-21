@@ -1,7 +1,6 @@
 # Темы
 
-#### Предобработка текста и простая классификация (tokens, lemmas, Bag-of-words)
-[Jupyter-тетрадка](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Preprocessing.ipynb)  
+#### Предобработка текста и простая классификация (tokens, lemmas, Bag-of-words) - [Jupyter-тетрадка](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Preprocessing.ipynb)  
 [Доп. тетрадка с сегментацией предложений](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/sent_tokenizer.ipynb)
 
 #### Определение языка (char ngram, wiki data)
