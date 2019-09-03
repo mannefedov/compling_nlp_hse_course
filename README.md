@@ -1,4 +1,7 @@
-# Темы
+Страница курса - https://mannefedov.github.io/compling_nlp_hse_course/
+
+
+# Материалы курса по темам
 
 #### :ledger: [Предобработка текста и простая классификация (tokens, lemmas, Bag-of-words)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Preprocessing.ipynb)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Доп. тетрадка с сегментацией предложений](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/Sentence_tokenizer.ipynb)
