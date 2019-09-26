@@ -10,5 +10,5 @@
 # Преподаватели
 Курс ведут Михаил Нефедов, Даниил Скоринкин и Nick Howell.  
 Связаться с нами проще всего через телеграм: @Nefedov_m , @skorinkin ...  
-Но можно написать и на почту: manefedov26@gmail.com, ..., nlhowell@gmail.com
+Но можно написать и на почту: manefedov26@gmail.com, dskorinkin@hse.ru, nlhowell@gmail.com
 
