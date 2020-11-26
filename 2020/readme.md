@@ -6,3 +6,5 @@
 [Фидбек по домашке](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/2020/HW_1_Feedback.ipynb) 
 
 2. [Коллокации](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/2020/Collocations.ipynb), [Языковые модели](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/2020/Ngrams.ipynb)
+
+3. [Исправление опечаток](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/2020/Spellchecking.ipynb) 
