@@ -8,3 +8,6 @@
 2. [Коллокации](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/2020/Collocations.ipynb), [Языковые модели](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/2020/Ngrams.ipynb)
 
 3. [Исправление опечаток](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/2020/Spellchecking.ipynb) 
+
+
+4. [Мешок слов и классификация текстов](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/2020/Bag_of_words_classification.ipynb)
