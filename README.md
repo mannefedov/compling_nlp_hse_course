@@ -4,31 +4,22 @@
 
 1. [**Предобработка текста**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/preprocessing/Text_preprocessing.ipynb)  
 Токенизация, лемматизация, стемминг, pymorphy, mystem, regex, razdel. 
-
 2. [**Классификация текста (мешок слов)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/bow/Bag_of_words_classification.ipynb)  
 TFIDF, CountVectorizer, LogReg, KNN, DecisionTrees, Naive Bayes, RandomForest, косинусная близость, тональность текста  
-
 3. [**Поиск и исправление опечаток**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/spelling/Spellchecking.ipynb)  
 Алгоритм Норвига, расстояние Левенштейна, символьные нграммы, SymSpell. 
-
 4. [**Базовое языковое моделирование**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/lm_intro/Language_model_intro.ipynb)  
 Вероятность слова, Ngram language model, перплексия, генерация текста. 
-
 5. [**Тематическое моделирование**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/topic_modelling/Topic_modelling.ipynb)  
 Матричные разложения (SVD, NMF), LDA, перплексия, когерентность. 
-
 6. [**Векторные представления слов (word2vec/fastext)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/word_embeddings/Word_embeddings.ipynb)  
 CBOW, Skip-gram, negative sampling, deep learning basics, sigmoid, softmax. 
-
 7. [**WSD/WSI**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/wsd/WSD_WSI.ipynb)  
 Adagram, кластеризация контекстов, wordnet, алгоритм Леска. 
-
 8. [**RNN и извлечение именованных сущностей (NER)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/RNN_NER.ipynb)  
 LSTM, GRU, Bidirectional RNN, IOB кодировка, sequence labelling. 
-
 9. [**Использование предобученных моделей**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/transfer_learning_hg/Fine_tune_pretrained_LM_tf.ipynb)  
 Transformer, BERT, HuggingFace, fine-tuning. 
-
 10. Машинный перевод - TBA
 11. Question answering - TBA
 12. Speech2Text - TBA
