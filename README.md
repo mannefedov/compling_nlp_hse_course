@@ -55,5 +55,9 @@ Transformer, BERT, HuggingFace, fine-tuning.
 - [Semantic Role Labelling](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/other/srl.ipynb)
 
 
-
+### Jupyter-notebooks in English
+- [Text preprocessing](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/english_notebooks/Preprocessing_Eng.ipynb)
+- [Basic Language modelling](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/english_notebooks/Ngrams-Eng.ipynb)
+- [Topic modelling](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/english_notebooks/Topic_model_gensim_sklearn_eng.ipynb)
+- [Word Embeddings](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/english_notebooks/Embeddings.ipynb)
 
