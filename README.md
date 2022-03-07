@@ -18,7 +18,7 @@ CBOW, Skip-gram, negative sampling, deep learning basics, sigmoid, softmax.
 Adagram, кластеризация контекстов, wordnet, алгоритм Леска. 
 8. [**RNN и извлечение именованных сущностей (NER)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/RNN_NER.ipynb)  
 LSTM, GRU, Bidirectional RNN, IOB кодировка, sequence labelling. 
-9. [**Использование предобученных моделей**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/transfer_learning_hg/Fine_tune_pretrained_LM_tf.ipynb)  
+9. [**Использование предобученных моделей**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/transfer_learning_hg/Fine_tunining_pretrained_LMs.ipynb)  
 Transformer, BERT, HuggingFace, fine-tuning. 
 10. Машинный перевод - TBA
 11. Question answering - TBA
