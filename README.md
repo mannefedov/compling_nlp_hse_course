@@ -6,7 +6,7 @@
 Токенизация, лемматизация, стемминг, pymorphy, mystem, regex, razdel. 
 2. [**Классификация текста (мешок слов) (Bag-of-words classification)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/bow/Bag_of_words_classification.ipynb)  
 TFIDF, CountVectorizer, LogReg, KNN, DecisionTrees, Naive Bayes, RandomForest, косинусная близость, тональность текста  
-3. [**Поиск и исправление опечаток (Spellchecking) **](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/spelling/Spellchecking.ipynb)  
+3. [**Поиск и исправление опечаток (Spellchecking)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/spelling/Spellchecking.ipynb)  
 Алгоритм Норвига, расстояние Левенштейна, символьные нграммы, SymSpell. 
 4. [**Базовое языковое моделирование (Basic Language Modelling)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/lm_intro/Language_model_intro.ipynb)  
 Вероятность слова, Ngram language model, перплексия, генерация текста. 
