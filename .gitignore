@@ -5,3 +5,5 @@
 .ipynb_checkpoints
 *.pdf
 *.pkl
+*.xml
+
