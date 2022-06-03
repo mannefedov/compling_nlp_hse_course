@@ -20,9 +20,9 @@ Adagram, кластеризация контекстов, wordnet, алгори�
 LSTM, GRU, Bidirectional RNN, IOB кодировка, sequence labelling. 
 9. [**Использование предобученных моделей (Fine-tuning pretrained models)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/transfer_learning_hg/Fine_tunining_pretrained_LMs.ipynb)  
 Transformer, BERT, HuggingFace, fine-tuning. 
-10. Машинный перевод (Machine Translation) - TBA
-11. Question answering - TBA
-12. Speech2Text - TBA
+10. [**Генерация текста (GPT)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/gpt/gpt.ipynb)    
+11. [**Машинный перевод (Machine Translation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/machine_translation/MT_transformer_tf.ipynb)
+
 
 
 ### Архивные jupyter-ноутбуки
