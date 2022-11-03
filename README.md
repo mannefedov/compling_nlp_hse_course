@@ -1,6 +1,6 @@
 ## Материалы курса по компьютерной лингвистике (Natural Language Processing course materials)
 
-### Jupyter-ноутбуки 2021-22
+### Jupyter-ноутбуки курса
 
 1. [**Предобработка текста (Text preprocessing)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/preprocessing/Text_preprocessing.ipynb)  
 Токенизация, лемматизация, стемминг, pymorphy, mystem, regex, razdel. 
