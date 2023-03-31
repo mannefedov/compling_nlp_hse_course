@@ -19,8 +19,8 @@ LSTM, GRU, Bidirectional RNN, IOB кодировка, sequence labelling.
 8. [**Трансформеры. Использование предобученных моделей (Transformers. Fine-tuning pretrained models)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/transfer_learning_hg/Fine_tunining_pretrained_LMs.ipynb)  
 Transformer, BERT, HuggingFace, fine-tuning. 
 9. [**Трансформеры. GPT. Генерация текста (Transformers. GPT. Text generation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/gpt/gpt.ipynb)    
-10. [**Трансформеры. Seq2Seq. Машинный перевод/ (Transformers. Seq2Seq. Machine Translation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/machine_translation/MT_transformer_tf.ipynb)
-11. [**Трансформеры. Дообучение на инструкциях/ (Transformers. Instruct fine-tuning)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/instruct_fine_tuning/General_instruct_fine_tuning.ipynb)
+10. [**Трансформеры. Seq2Seq. Машинный перевод (Transformers. Seq2Seq. Machine Translation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/machine_translation/MT_transformer_tf.ipynb)
+11. [**Трансформеры. Дообучение на инструкциях (Transformers. Instruct fine-tuning)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/instruct_fine_tuning/General_instruct_fine_tuning.ipynb)
 
 
 
