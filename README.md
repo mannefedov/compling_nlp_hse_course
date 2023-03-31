@@ -14,19 +14,18 @@ TFIDF, CountVectorizer, LogReg, KNN, DecisionTrees, Naive Bayes, RandomForest, �
 Матричные разложения (SVD, NMF), LDA, перплексия, когерентность. 
 6. [**Векторные представления слов (word2vec/fastext) (Word embeddings)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/word_embeddings/Word_embeddings.ipynb)  
 CBOW, Skip-gram, negative sampling, deep learning basics, sigmoid, softmax. 
-7. [**WSD/WSI**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/wsd/WSD_WSI.ipynb)  
-Adagram, кластеризация контекстов, wordnet, алгоритм Леска. 
-8. [**RNN и извлечение именованных сущностей (Named Entity Recognition)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/RNN_NER.ipynb)  
+7. [**RNN и извлечение именованных сущностей (Named Entity Recognition)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/RNN_NER.ipynb)  
 LSTM, GRU, Bidirectional RNN, IOB кодировка, sequence labelling. 
-9. [**Использование предобученных моделей (Fine-tuning pretrained models)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/transfer_learning_hg/Fine_tunining_pretrained_LMs.ipynb)  
+8. [**Трансформеры. Использование предобученных моделей (Transformers. Fine-tuning pretrained models)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/transfer_learning_hg/Fine_tunining_pretrained_LMs.ipynb)  
 Transformer, BERT, HuggingFace, fine-tuning. 
-10. [**Генерация текста (GPT)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/gpt/gpt.ipynb)    
-11. [**Машинный перевод (Machine Translation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/machine_translation/MT_transformer_tf.ipynb)
+9. [**Трансформеры. GPT. Генерация текста (Transformers. GPT. Text generation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/gpt/gpt.ipynb)    
+10. [**Трансформеры. Seq2Seq. Машинный перевод/ (Transformers. Seq2Seq. Machine Translation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/machine_translation/MT_transformer_tf.ipynb)
+11. [**Трансформеры. Дообучение на инструкциях/ (Transformers. Instruct fine-tuning)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/instruct_fine_tuning/General_instruct_fine_tuning.ipynb)
 
 
 
 ### Архивные jupyter-ноутбуки
-
+- [WSD/WSI](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/wsd/WSD_WSI.ipynb) 
 - [NER с помощью грамматик (yargy)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/NER_rule_based.ipynb)
 - [Few-shot NER (deep pavlov)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/deep_pavlov_ner.ipynb)
 - [Деревья зависимостей (Dependency trees)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/dependency_parsing/Dependencies_v2.ipynb)
