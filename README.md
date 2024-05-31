@@ -45,14 +45,11 @@ human feedback, DPO + QLoRA
 
 
 ### Архивные jupyter-ноутбуки
-- [WSD/WSI](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/wsd/WSD_WSI.ipynb) 
 - [NER с помощью грамматик (yargy)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/NER_rule_based.ipynb)
 - [Few-shot NER (deep pavlov)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/deep_pavlov_ner.ipynb)
 - [Деревья зависимостей (Dependency trees)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/dependency_parsing/Dependencies_v2.ipynb)
 - [Тематическое моделирование в BigARTM](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/topic_modelling/Topic_model_BigARTM.ipynb)
 - [Keyword extraction](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/keyword_extraction/Keyword_extraction.ipynb)
-- [Определение языка](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/language_detection/Language_Detection.ipynb)
-- [Коллокации](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/collocation/Collocations.ipynb)
 - [CNN (tf)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/cnn/cnn_tf.ipynb), [CNN (pytorch)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/cnn/cnn_torch.ipynb)
 - [RNN (pytorch)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rnn_ner/rnn_torch.ipynb)
 - [Deep learning intro (tf)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/word_embeddings/nn_intro_tf.ipynb), [Deep learning intro (pytorch)](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/word_embeddings/nn_intro_torch.ipynb)
