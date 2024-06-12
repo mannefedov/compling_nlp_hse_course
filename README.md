@@ -11,7 +11,7 @@
 
 #### Основная часть
 
-1. [**Предобработка текста (Text preprocessing)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/first_module_intro/01_regular_expressions.ipynb)  
+1. [**Предобработка текста (Text preprocessing)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/preprocessing/Text_preprocessing.ipynb)  
 Токенизация, лемматизация, стемминг, pymorphy, mystem, regex, razdel. 
 2. [**Классификация текста (мешок слов) (Bag-of-words classification)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/bow/Bag_of_words_classification.ipynb)  
 TFIDF, CountVectorizer, LogReg, KNN, DecisionTrees, Naive Bayes, RandomForest, косинусная близость, тональность текста  
@@ -37,7 +37,7 @@ alpaca, dolly, flan-t5
 quantization, LoRA, QLoRA  
 13. [**Multimodality (text and images)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/multimodality/CLIP_BLIP_Stable_diffusion.ipynb)  
 CLIP, BLIP, Idefics, Stable diffusion   
-14. [**Трансформеры. RLHF, DPO**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rlhf/RLHF.ipynb)  
+14. [**Трансформеры. RLHF, DPO**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/rlhf/RLHF_DPO.ipynb)  
 human feedback, DPO + QLoRA  
 
 
