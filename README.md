@@ -12,13 +12,13 @@
 #### Основная часть
 
 1. [**Предобработка текста (Text preprocessing)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/preprocessing/Text_preprocessing.ipynb)  
-Токенизация, лемматизация, стемминг, pymorphy, mystem, regex, razdel. 
+Токенизация, лемматизация, стемминг, pymorphy, mystem, regex, razdel, deduplication, lsh, minhash.
 2. [**Классификация текста (мешок слов) (Bag-of-words classification)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/bow/Bag_of_words_classification.ipynb)  
 TFIDF, CountVectorizer, LogReg, KNN, DecisionTrees, Naive Bayes, RandomForest, косинусная близость, тональность текста  
 3. [**Поиск и исправление опечаток (Spellchecking)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/spelling/Spellchecking.ipynb)  
 Алгоритм Норвига, расстояние Левенштейна, символьные нграммы, SymSpell. 
 4. [**Базовое языковое моделирование (Basic Language Modelling)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/lm_intro/Language_model_intro.ipynb)  
-Вероятность слова, Ngram language model, перплексия, генерация текста. 
+Вероятность слова, Ngram language model, перплексия, генерация текста, beam search.
 5. [**Тематическое моделирование (Topic modelling)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/topic_modelling/Topic_modelling.ipynb)  
 Матричные разложения (SVD, NMF), LDA, перплексия, когерентность. 
 6. [**Векторные представления слов (word2vec/fastext) (Word embeddings)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/word_embeddings/Word_embeddings.ipynb)  
@@ -29,7 +29,7 @@ CNN.
 LSTM, GRU, Bidirectional RNN, IOB кодировка, sequence labelling. 
 9. **Трансформеры. BERT и GPT (Transformers. BERT and GPT)** ([**BERT**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/transfer_learning_hg/Fine_tunining_pretrained_LMs.ipynb),  [**GPT**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/gpt/gpt.ipynb))  
 Transformer, BERT, HuggingFace, fine-tuning, text generation, sampling parameters (temperature, top_p, top_k)  
-10. [**Трансформеры. Seq2Seq. Машинный перевод (Transformers. Seq2Seq. Machine Translation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/machine_translation/MT_transformer.ipynb)
+10. [**Трансформеры. Seq2Seq. Машинный перевод (Transformers. Seq2Seq. Machine Translation)**](https://github.com/mannefedov/compling_nlp_hse_course/blob/master/notebooks/machine_translation/MT_transformer.ipynb)  
 multi-head attention, encoder-decoder model, bleu score
 11. [**Трансформеры. Дообучение на инструкциях (Transformers. Instruct fine-tuning)**](https://github.com/mannefedov/compling_nlp_hse_course/tree/master/notebooks/instruct_fine_tuning)  
 alpaca, dolly, flan-t5  
